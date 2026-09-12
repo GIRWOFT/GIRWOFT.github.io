@@ -38,4 +38,4 @@ tags: [MISC, Bugku, 图片隐写, 十六进制]
 
 ## 3. 答案
 
-Flag:>key{you are right}
+Flag: key{you are right}
