@@ -8,7 +8,7 @@ tags: [MISC, Bugku, 图片隐写, 十六进制]
 
 ## 前言
 
-在 CTF（Capture The Flag）中，完成了一道 Bugku 平台上的经典 MISC 基础题——**“这是一张单纯的图片”**。这道题图片隐写题。
+在 CTF（Capture The Flag）中，完成了一道 Bugku 平台上的经典 MISC 基础题——**“这是一张单纯的图片”**。这道题是图片隐写题。
 
 ## 1. 题目信息
 
