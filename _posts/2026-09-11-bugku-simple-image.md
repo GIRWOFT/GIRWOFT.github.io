@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bugku MISC 入门：这是一张单纯的图片 Writeup"
-date: 2026-09-11 12:00:00 +0800
+date: 2026-09-11 12:00:00
 categories: [CTF, Writeup]
 tags: [MISC, Bugku, 图片隐写, 十六进制]
 ---
